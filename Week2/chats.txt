@@ -1,0 +1,10 @@
+1. create new_code.js and add refactor code of current file with new way of writing code 
+    with async/await and with proper comment of code with proper naming convention.
+
+2. @workspace /explain summarize current file and create readme file
+    Summary of current file:
+    This JavaScript file processes user data from a local JSON file. For each user, 
+    it fetches additional data from an external API, filters and transforms the items 
+    (only active items, doubles their value, adds a timestamp, and keeps those with value > 10), 
+    and writes the processed results to an output file. The code uses callbacks and Promises 
+    for asynchronous operations and handles errors gracefully.

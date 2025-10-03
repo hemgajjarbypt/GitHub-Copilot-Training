@@ -1,0 +1,1 @@
+1. add docstrings for every functions and classes, and also generate Readme file which explain usage and purpose of every functions and classes.
