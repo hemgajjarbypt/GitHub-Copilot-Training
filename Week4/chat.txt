@@ -1,0 +1,17 @@
+Week 4:- I have a JavaScript utility module named with `week4` with functions:
+Please generate a comprehensive test files for relative all week4 files using Jest and React Testing Library (where applicable). 
+Requirements:
+- Cover normal cases and at least 2 edge cases for each function.
+- Use table-driven testing patterns (array of test cases).
+- Mock external API calls in `getWeather` using Jest mocks.
+- Include assertions for exceptions and invalid input.
+- Include descriptive test function names.
+- Include comments explaining each test case.
+- Ensure the tests are runnable with `npm test` or `yarn test`.
+- Aim for 90%+ test coverage.
+**Generate a README.md for this module**
+   The README should include:
+   - **Overview**: What this module is, what problem it solves, and why it exists.
+   - **Usage Examples**: Show code snippets demonstrating common usage scenarios.
+   - **Key Functions/Classes**: Explain what they do and when to use them.
+   - **Edge Cases / Limitations**: Mention any known caveats or assumptions.
