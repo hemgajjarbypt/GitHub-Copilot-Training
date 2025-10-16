@@ -109,3 +109,20 @@ function simulatePromise() {
   });
 }
 simulatePromise().then(console.log);
+
+module.exports = {
+  add,
+  multiply,
+  printSum,
+  multiplyAndLog,
+  checkNumber,
+  greet,
+  fetchData,
+  calculateArea,
+  getRandom,
+  toUpperCase,
+  showAlert,
+  printUserData,
+  checkStatus,
+  simulatePromise
+};

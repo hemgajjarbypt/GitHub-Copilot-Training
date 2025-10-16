@@ -1,0 +1,16 @@
+{
+  "name": "week5-utils",
+  "version": "1.0.0",
+  "description": "Utility functions and code for Week5",
+  "main": "new.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
