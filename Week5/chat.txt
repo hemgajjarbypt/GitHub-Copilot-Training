@@ -1,0 +1,2 @@
+Create new.js file in which there is no duplicate code and logic there should be same logic used instead of duplicate code,
+also create Readme file explaining which reusablity pattern is good and is suggested by Copilot.
