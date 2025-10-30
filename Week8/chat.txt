@@ -1,0 +1,2 @@
+Read whole project and create README.md file explaining project and how to use, 
+also add inline docs in each project file.
